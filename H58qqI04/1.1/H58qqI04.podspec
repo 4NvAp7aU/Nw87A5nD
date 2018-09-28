@@ -22,7 +22,7 @@ s.source_files = '*/*.{h,m}'
 s.xcconfig = {
 'OTHER_LDFLAGS' => '-ObjC'
 }
-s.dependency 'mopub-ios-sdk', '~> 4.13'
+s.dependency 'mopub-ios-sdk', '>= 4.13'
 s.dependency 'G47ppH93'
 
 end
