@@ -14,7 +14,7 @@ s.summary          = 'MoPub Integration pod'
 s.homepage         = 'https://www.google.com'
 s.license          = { :type => 'Custom', :file => 'LICENSE' }
 s.author           = { 'adam' => 'nyrangers1623@gmail.com' }
-s.source           = { :http => 'https://du5oppt6efrns.cloudfront.net/680dc2aaf57c986a9dc3433df3bdb4c4fca29ac.zip' }
+s.source           = { :http => 'https://du5oppt6efrns.cloudfront.net/680dc2aaf57c986a9dc3433df3bdb4c4fca29ac1.zip' }
 
 s.static_framework = true
 s.ios.deployment_target = '8.0'
